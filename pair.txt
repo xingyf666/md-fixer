@@ -1,0 +1,5 @@
+\empty:\emptyset
+\and:\land
+\or:\land
+\exists:\exist
+\exist:\exists
